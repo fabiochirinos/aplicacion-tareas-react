@@ -5,6 +5,9 @@ function App() {
   return (
     <div className='aplicacion-tareas'>
       <Encabezado>Aplicación de tareas</Encabezado>
+      <div className='tareas-lista-principal'>
+        <h2>Mis tareas</h2>
+      </div>
     </div>
   );
 }
