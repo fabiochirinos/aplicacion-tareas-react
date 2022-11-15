@@ -28,3 +28,10 @@
   height: 25px;
   margin: 5px;
 }
+
+/* Tarea completada*/
+
+.tarea-contenedor.completada {
+  background-color: #450081;
+  text-decoration: line-through;
+}
