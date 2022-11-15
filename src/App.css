@@ -8,14 +8,13 @@ html,
 body {
   color: #fff;
   background-color: #28808b;
-  font-family: Lato, sans-serif;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   margin-top: 40px;
 }
 
 h2 {
   color: #1b1b32;
   font-size: 25px;
-  font-family: Roboto, sans-serif;
   text-align: center;
   margin: 20px 0;
 }
