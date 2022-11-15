@@ -1,0 +1,9 @@
+/* Para el encabezado */
+
+h1 {
+  width: 100%;
+  margin: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
