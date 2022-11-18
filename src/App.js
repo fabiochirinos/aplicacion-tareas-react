@@ -1,6 +1,6 @@
 import './App.css';
 import Encabezado from './components/Encabezado';
-import TareaFormulario from './components/TareaFormulario';
+import ListaDeTareas from './components/ListaDeTareas';
 
 
 function App() {
@@ -9,7 +9,7 @@ function App() {
       <Encabezado>Aplicación de tareas</Encabezado>
       <div className='tareas-lista-principal'>
         <h2>Mis tareas</h2>
-        <TareaFormulario />
+        <ListaDeTareas />
       </div>
     </div>
   );
