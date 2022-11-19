@@ -10,10 +10,14 @@ export default function ListaDeTareas() {
   const agregarTarea = tarea => {
     if (tarea.texto.trim()) {
       tarea.texto = tarea.texto.trim();
-
       const tareasActualizadas = [tarea, ...tareas];
       setTareas(tareasActualizadas);
     }
+  }
+
+  const eliminarTarea = id => {
+    const tareasActualizadas = tareas.filter(tarea => tarea.id !== id);
+    setTareas(tareasActualizadas);
   }
 
   return (
@@ -27,6 +31,7 @@ export default function ListaDeTareas() {
               id={tarea.id}
               texto={tarea.texto}
               completada={tarea.completada}
+              eliminarTarea={eliminarTarea}
             />
           )
         }
