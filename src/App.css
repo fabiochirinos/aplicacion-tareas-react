@@ -29,7 +29,7 @@ h2 {
 /* Lista de Tareas */
 
 .tareas-lista-principal {
-  width: 100%;
+  width: 600px;
   min-height: 500px;
   background-color: #DADDE2;
   padding: 25px;
