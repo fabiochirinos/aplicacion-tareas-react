@@ -7,13 +7,13 @@
 html,
 body {
   color: #fff;
-  background-color: #fff;
+  background-color: #f5f6f7;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   margin-top: 40px;
 }
 
 h2 {
-  color: #3B3B3B;
+  color: #fff;
   font-size: 25px;
   text-align: center;
   margin: 20px 0;
@@ -31,6 +31,6 @@ h2 {
 .tareas-lista-principal {
   width: 600px;
   min-height: 500px;
-  background-color: #DADDE2;
+  background-color: #2f2f2f;
   padding: 25px;
 }
