@@ -2,7 +2,7 @@
 # 📌 Aplicación de Tareas
 ¡Hola! Esta es una aplicación de tareas interactiva desarrollada con React. Puedes agregar una tarea, eliminarla de la lista y marcarla como completada.
 
-Esta aplicación fue creada por [Estefania Cassingena Navone](https://twitter.com/EstefaniaCassN) y modificado por [Fabio Chirinos](https://twitter.com/fabio_1924). Su estructura inicial fue creada con el comando `npx create-react-app`.
+Esta aplicación fue creada por [Estefania Cassingena Navone](https://twitter.com/EstefaniaCassN) y modificado por [Fabio Chirinos](https://github.com/fabiochirinos). Su estructura inicial fue creada con el comando `npx create-react-app`.
 
 ## Ejecutar la Aplicación
 Para iniciar la aplicación, debes ejecutar el comando `npm start` en el terminal. Si trabajas con Visual Studio Code, puedes abrir el terminal con el atajo de teclado `ctrl + ñ` si tu teclado está en español y con ``ctrl + ` `` si tu teclado está en inglés.
